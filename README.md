@@ -51,15 +51,9 @@ Here are some ideas to get you started:
 
 
 
-![kavinkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavinkumar999&show_icons=true&theme=radical)
+![kavinkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanika02&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinkumar999&langs_count=8&layout=compact)](https://github.com/kavinkumar999/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanika02&langs_count=8&layout=compact)](https://github.com/kanika02/github-readme-stats)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavinkumar999&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanika02&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 
-**Visitors Count**<br>
-![VisitorCount](https://profile-counter.glitch.me/{kavinkumar999}/count.svg)
-
-![Snake eat Grid](https://github.com/kavinkumar999/kavinkumar999/blob/output/github-contribution-grid-snake.gif)
-
-[![Kavin Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kavinkumar999&theme=react-dark)](https://github.com/kavinkumar999/github-readme-activity-graph)
