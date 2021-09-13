@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I love ❤️ to contribute open source and passionate to learn new skills and leverage them into solve real-world problems
 <br>
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F527132331358927668%2F&psig=AOvVaw3wbR6q6T-QiWXrJNDKC17n&ust=1631613476277000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDV9fvX-_ICFQAAAAAdAAAAABAD" alt="Coder GIF" width="500">
+ <img src="https://cdn.dribbble.com/users/5911/screenshots/1382887/media/46be3ea3f295bd7fb978122d6ebba32c.gif" width="500">
 
 <br>
 
