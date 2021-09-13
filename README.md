@@ -43,11 +43,11 @@ I love ❤️ to contribute open source and passionate to learn new skills and l
 <hr>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Exploring AI and cloud Technologies
+- 🔭 I’m currently Exploring ML and DL Technologies
 - 🌱 I’m currently learning Machine Learning and different algorithms
 - 👯 Always love to collabrate 
 - 💬 Ask me about anything, I would be glad to help you
-- 📫 How to reach me: <span> &emsp; <a href="https://www.linkedin.com/in/kavin-kumar-1999k/"> <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="padding-top: 7px;" alt="linkedin" width="65" height="25"/></a></span>
+- 📫 How to reach me: <span> &emsp; <a href="https://www.linkedin.com/in/kanika-chaudhary-911451130/"> <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="padding-top: 7px;" alt="linkedin" width="65" height="25"/></a></span>
 
 
 
