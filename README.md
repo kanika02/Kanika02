@@ -46,5 +46,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanika02&langs_count=8&layout=compact)](https://github.com/kanika02/github-readme-stats)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanika02&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 
