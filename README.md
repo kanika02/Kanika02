@@ -38,11 +38,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I would be glad to help you
 - 📫 How to reach me: <span> &emsp; <a href="https://www.linkedin.com/in/kanika-chaudhary-911451130/"> <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="padding-top: 7px;" alt="linkedin" width="65" height="25"/></a></span>
 
-**Visitors Count**<br>
-![VisitorCount](https://profile-counter.glitch.me/{kanika02}/count.svg)
 
 
 ![kavinkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanika02&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanika02&langs_count=8&layout=compact)](https://github.com/kanika02/github-readme-stats)
 
