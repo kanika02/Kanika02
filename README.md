@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I m Kanika <img  src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"  width="30">
 
-I love ❤️ to contribute open source and passionate to learn new skills and leverage them into solve real-world problems
+I love ❤️ to contribute open-source and passionate to learn new skills and leverage them into solve real-world problems
 <br>
 
  <img src="https://cdn.dribbble.com/users/5911/screenshots/1382887/media/46be3ea3f295bd7fb978122d6ebba32c.gif" width="500">
