@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 
 
+<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
 
-## Hi there, I m Kanika <img  src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"  width="30">
+### I'm [Dani Akash][homepage]
 
-I love ❤️ to contribute open-source and passionate to learn new skills and leverage them into solving real-world problems.
-<br>
+A JavaScript developer from Chennai. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/dani_akash_?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/dani_akash_?label=LiveStream&style=for-the-badge)][twitch] [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/dani_akash_?style=for-the-badge)][reddit]
 
  <img src="https://cdn.dribbble.com/users/5911/screenshots/1382887/media/46be3ea3f295bd7fb978122d6ebba32c.gif" width="500">
 
