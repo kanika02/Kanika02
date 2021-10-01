@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
 
-### I'm [Kanika Chaudhary][homepage]
+### I'm Kanika Chaudhary
 
 I'm am currently pursuing masters in Computer Science 🎓 . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
