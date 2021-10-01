@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ### I'm [Kanika Chaudhary][homepage]
 
-I'm am currently pursuing masters in Computer Science 🎓 . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. 
+I'm am currently pursuing masters in Computer Science 🎓 . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
- <img align="middle" src="https://cdn.dribbble.com/users/5911/screenshots/1382887/media/46be3ea3f295bd7fb978122d6ebba32c.gif" width="500">
+ <img align="right" src="https://cdn.dribbble.com/users/5911/screenshots/1382887/media/46be3ea3f295bd7fb978122d6ebba32c.gif" width="500">
 
 <br>
 
