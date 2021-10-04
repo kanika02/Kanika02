@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img align="left" width="150" height="150"  src="https://github.com/kanika02/Kanika02/tree/main/pic/download.jpg"/>
+<img align="left" width="150" height="150"  src="pic/download.jpg"/>
 
 ### I'm Kanika Chaudhary
 
