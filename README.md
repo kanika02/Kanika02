@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
+<img align="left" width="150" height="150" alt="Dani Akash" src="https://github.com/kanika02/Kanika02/tree/main/pic/download.jpg"/>
 
 ### I'm Kanika Chaudhary
 
